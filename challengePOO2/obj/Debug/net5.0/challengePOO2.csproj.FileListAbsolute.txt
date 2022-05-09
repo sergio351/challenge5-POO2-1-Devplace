@@ -1,0 +1,16 @@
+C:\Users\Gian\source\repos\challengePOO2\challengePOO2\bin\Debug\net5.0\challengePOO2.exe
+C:\Users\Gian\source\repos\challengePOO2\challengePOO2\bin\Debug\net5.0\challengePOO2.deps.json
+C:\Users\Gian\source\repos\challengePOO2\challengePOO2\bin\Debug\net5.0\challengePOO2.runtimeconfig.json
+C:\Users\Gian\source\repos\challengePOO2\challengePOO2\bin\Debug\net5.0\challengePOO2.runtimeconfig.dev.json
+C:\Users\Gian\source\repos\challengePOO2\challengePOO2\bin\Debug\net5.0\challengePOO2.dll
+C:\Users\Gian\source\repos\challengePOO2\challengePOO2\bin\Debug\net5.0\ref\challengePOO2.dll
+C:\Users\Gian\source\repos\challengePOO2\challengePOO2\bin\Debug\net5.0\challengePOO2.pdb
+C:\Users\Gian\source\repos\challengePOO2\challengePOO2\obj\Debug\net5.0\challengePOO2.csproj.AssemblyReference.cache
+C:\Users\Gian\source\repos\challengePOO2\challengePOO2\obj\Debug\net5.0\challengePOO2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gian\source\repos\challengePOO2\challengePOO2\obj\Debug\net5.0\challengePOO2.AssemblyInfoInputs.cache
+C:\Users\Gian\source\repos\challengePOO2\challengePOO2\obj\Debug\net5.0\challengePOO2.AssemblyInfo.cs
+C:\Users\Gian\source\repos\challengePOO2\challengePOO2\obj\Debug\net5.0\challengePOO2.csproj.CoreCompileInputs.cache
+C:\Users\Gian\source\repos\challengePOO2\challengePOO2\obj\Debug\net5.0\challengePOO2.dll
+C:\Users\Gian\source\repos\challengePOO2\challengePOO2\obj\Debug\net5.0\ref\challengePOO2.dll
+C:\Users\Gian\source\repos\challengePOO2\challengePOO2\obj\Debug\net5.0\challengePOO2.pdb
+C:\Users\Gian\source\repos\challengePOO2\challengePOO2\obj\Debug\net5.0\challengePOO2.genruntimeconfig.cache
